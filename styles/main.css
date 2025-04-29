@@ -1,0 +1,36 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+html {
+    font-size: 100%;
+}
+.header {
+    height: 100vh;
+    background-image: url("../images/pexels-tranmautritam-326501\ másolata.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.header-container{
+    width: 75rem;
+    margin: 0px auto;
+}
+.navigation-ul-list-item {
+    display: block;
+    list-style-type: none;
+    float: right;
+}
+.navigation-ul-list-item-link{
+    text-decoration: none;
+    color:#508bd9;
+    padding: 0.5rem 0.25rem 0.25rem 0.25rem;
+    margin-top: 2rem;
+    margin-right: 2rem;
+    margin-left: 2rem;
+    border-bottom: red 1px solid;
+    display: block;
+}
+
+
